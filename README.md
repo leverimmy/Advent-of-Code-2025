@@ -12,3 +12,4 @@ I tried to use different programming languages for different days to broaden my 
 |  4  |   Java   |
 |  5  |  Python  |
 |  6  |   C++    |
+|  7  |    C     |
